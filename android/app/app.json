@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614104377744",
+    "firebase_url": "https://aczurex-d2de4-default-rtdb.firebaseio.com",
+    "project_id": "aczurex-d2de4",
+    "storage_bucket": "aczurex-d2de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614104377744:android:ceb3f051c2557ddf47ab15",
+        "android_client_info": {
+          "package_name": "com.aczurex.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6nn4V1PpDvixZflkswWJ5TJdx9Drb2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

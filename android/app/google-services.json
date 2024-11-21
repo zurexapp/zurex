@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "31992218561",
+    "firebase_url": "https://aczurex-d4b61-default-rtdb.firebaseio.com",
+    "project_id": "aczurex-d4b61",
+    "storage_bucket": "aczurex-d4b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31992218561:android:263113d9dbad2225562540",
+        "android_client_info": {
+          "package_name": "com.aczurecarbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0pFmslNymOWFWNbbt8Y2uwhxs2TuRAE"
+        },
+        {
+          "current_key": "AIzaSyAtZGFC5hkbM-FarMr2VC4THYE7zNizrgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31992218561-7kkepefgst1187ud52hqqi6ocnhlmegt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aczurecarbusiness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31992218561:android:8463556e8185bcc1562540",
+        "android_client_info": {
+          "package_name": "com.aczurex.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31992218561-datgk10c1ns1jebgdtache9esojta77v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurex.app",
+            "certificate_hash": "6629714fc74c94214855c9688543758c9f288db3"
+          }
+        },
+        {
+          "client_id": "31992218561-fdcd3rop9re42fj1c7coud6gc0d3qnv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurex.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "31992218561-k53qbfdsb4skesk3cbt2m9spa5dktjhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurex.app",
+            "certificate_hash": "42a41c89efec2c028bf38987415198c500972287"
+          }
+        },
+        {
+          "client_id": "31992218561-o02ahi8e387ca88qnt41dpv8cbfl8ia3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurex.app",
+            "certificate_hash": "f8c1f553a0e263141d3d9357712e25878225536a"
+          }
+        },
+        {
+          "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0pFmslNymOWFWNbbt8Y2uwhxs2TuRAE"
+        },
+        {
+          "current_key": "AIzaSyAtZGFC5hkbM-FarMr2VC4THYE7zNizrgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31992218561-7kkepefgst1187ud52hqqi6ocnhlmegt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aczurecarbusiness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31992218561:android:6d4d2a3ae1b9cb4b562540",
+        "android_client_info": {
+          "package_name": "com.aczurezcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31992218561-320o21vs2l5jrpc887fs3fm18j7m70pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurezcar",
+            "certificate_hash": "42a41c89efec2c028bf38987415198c500972287"
+          }
+        },
+        {
+          "client_id": "31992218561-oopmo6rupllpfhh5aceelfs4pmp1iaav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurezcar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0pFmslNymOWFWNbbt8Y2uwhxs2TuRAE"
+        },
+        {
+          "current_key": "AIzaSyAtZGFC5hkbM-FarMr2VC4THYE7zNizrgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31992218561-7kkepefgst1187ud52hqqi6ocnhlmegt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aczurecarbusiness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31992218561:android:27624cfb37fbfddf562540",
+        "android_client_info": {
+          "package_name": "com.aczurezcarbussiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31992218561-skgfqgl5vffu7jba5050lv3bta76375l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aczurezcarbussiness",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0pFmslNymOWFWNbbt8Y2uwhxs2TuRAE"
+        },
+        {
+          "current_key": "AIzaSyAtZGFC5hkbM-FarMr2VC4THYE7zNizrgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31992218561-4780m4o1dbifo8uu4rcegjf0r3oprbci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31992218561-7kkepefgst1187ud52hqqi6ocnhlmegt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aczurecarbusiness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

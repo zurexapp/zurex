@@ -1,0 +1,28 @@
+{
+  "env": {
+    "es6": true,
+    "node": true,
+    "react-native/react-native": true,
+    "jest": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-native/all",
+    "airbnb"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
+  "plugins": ["react", "react-native"],
+  "rules": {
+    "react/prop-types": "off", // Turn off prop-types if using TypeScript
+    "react/jsx-filename-extension": ["error", {"extensions": [".js", ".jsx"]}],
+    "react-native/no-unused-styles": "warn",
+    "react-native/split-platform-components": "warn",
+    "no-console": "off", // If you want to allow console statements
+    "no-unused-vars": "warn"
+  }
+}
